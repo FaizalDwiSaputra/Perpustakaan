@@ -1,0 +1,29 @@
+.body1{
+    background-color: #0e0d0d;
+    color: #e6e6e6;
+}
+#navbar{
+    background-color: #3c3c3c;
+    border-radius: 30px;
+
+    a{
+        font-size: 14px;
+    }
+}
+.utama{
+    width: 100%;
+    height: 400px;
+}
+.utama img{
+    width: 100%;
+    height: 100%;
+    filter: brightness(70%);
+}
+.deskripsi-sampul{
+    h2{
+        font-size: 16px;
+    }
+}
+.kartu-buku{
+    height: 300px;
+}

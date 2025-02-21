@@ -1,0 +1,15 @@
+tbody{
+    background-color: #add1d8;
+}
+@media screen and (min-width:300px) and (max-width:769px) {
+    td{
+        font-size: 9px;
+    }
+    th{
+        font-size: 8px;
+    }
+    a{
+        font-size: 6px;
+        margin-top: 4px;
+    }
+}
