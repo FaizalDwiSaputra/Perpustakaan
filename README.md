@@ -3,12 +3,14 @@ Website untuk melakukan peminjaman buku online pada perpustakaan.
 
 ## 📸 Tampilan Proyek
 1. ![Tampilan Proyek](hasil/1.png)
+
+## 📸 Tampilan Pada Mobile
    
-2. ![Tampilan Proyek](hasil/2.png)
+1. ![Tampilan Proyek](hasil/2.png)
    
-3. ![Tampilan Proyek](hasil/3.png)
+2. ![Tampilan Proyek](hasil/3.png)
    
-4. ![Tampilan Proyek](hasil/4.png)
+3. ![Tampilan Proyek](hasil/4.png)
 
 ## 📌 Fitur
 - ✅ Login
